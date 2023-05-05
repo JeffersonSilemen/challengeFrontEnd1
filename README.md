@@ -1,4 +1,4 @@
-Challenge by FrontEndMentor <br>
+Challenge 1 by FrontEndMentor <br>
 Page: https://jeffersonsilemen.github.io/challengeFrontEnd1/ <br>
 Skills: <br>
 - HTML <br>
