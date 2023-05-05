@@ -1,7 +1,7 @@
-Challenge by FrontEndMentor
-Page: https://jeffersonsilemen.github.io/challengeFrontEnd1/
-Skills:
-- HTML
-- CSS
-- Responsive desing
-- Mobile first
+Challenge by FrontEndMentor <br>
+Page: https://jeffersonsilemen.github.io/challengeFrontEnd1/ <br>
+Skills: <br>
+- HTML <br>
+- CSS <br>
+- Responsive desing <br>
+- Mobile first <br>
